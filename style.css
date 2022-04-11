@@ -376,16 +376,7 @@ p#text-form{
 		border-radius: 0px;
 }       
         
-				a img#item1{
-				width: 70px;
-				height: 70px;
-				margin-top: 1%;
-				font-size: 70px;
-				display: inline-block;
-				flex-direction: row;
-				justify-content: center;
-	
-}
+				
 				}
 
 				
@@ -395,16 +386,7 @@ p#text-form{
 
 
 @media (min-width: 1200px) { 
-		a img#item1{
-		width: 70px;
-		height: 70px;
-		margin-top: 1%;
-		font-size: 70px;
-		display: inline-block;
-		flex-direction: row;
-		justify-content: center;
-
-}
+		
 
 					
   }
