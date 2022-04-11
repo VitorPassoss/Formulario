@@ -106,17 +106,7 @@ a img#item1{
 	
 }
 
-a img#item2 {
-	width: 55px;
-	height: 55px;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
 
-
-
-
-}
 
 p#text-form{
 	bottom: 100px;
@@ -387,21 +377,18 @@ p#text-form{
 }       
         
 				a img#item1{
-					width: 70px;
-					height: 70px;
-					margin-top: 1%;
-					position: relative;
-					left: 150px;
-					bottom: 30px;
+				width: 70px;
+				height: 70px;
+				margin-top: 1%;
+				font-size: 70px;
+				display: inline-block;
+				flex-direction: row;
+				justify-content: center;
+	
+}
 				}
 
-				a img#item2 {
-					width: 55px;
-					height: 55px;
-					position: relative;
-					left: 120px;
-					bottom: 35px;
-
+				
 
          
 }   }
@@ -409,16 +396,15 @@ p#text-form{
 
 @media (min-width: 1200px) { 
 		a img#item1{
-					width: 70px;
-					height: 70px;
-					margin-top: 1%;
-					position: relative;
-					left: 500px;
-					bottom:90px;
-				}
+		width: 70px;
+		height: 70px;
+		margin-top: 1%;
+		font-size: 70px;
+		display: inline-block;
+		flex-direction: row;
+		justify-content: center;
 
-				a img#item2 {
-					width: 55px;
-					height: 55px;
+}
+
 					
   }
