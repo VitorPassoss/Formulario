@@ -178,6 +178,25 @@ p#text-form{
 @media (min-width: 576px) and (max-width: 767.98px) { 
      h1#cadastro{
 		font-size: 30px;
+	        #layout #titulo{
+			display: none;
+
+		}
+	     
+	     #textologin{
+			position: relative;
+			top: 50px;
+			font-size: 25px;
+			left: 25px;
+		}
+	     
+	     
+		#botao{
+			position: relative;
+			right: 450px;
+			top: 70px;
+		}
+	     
 
 	}    
 	    #layout{
@@ -187,8 +206,6 @@ p#text-form{
 
 		#layout #titulo{
 			display: none;
-
-
 
 		}
 
